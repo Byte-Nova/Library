@@ -16,9 +16,5 @@
 - Press the 'Convert' button.
 - Wait until the process finishes all the tasks.
 
-**How does it look?**
-
-![Preview](https://github.com/TastyLollipop/Library/blob/main/Preview.png?raw=true)
-
 **Atribution Credits**
 - <a href="https://www.flaticon.com/free-icons/book" title="book icons">Book icon created by Smashicons - Flaticon</a>
