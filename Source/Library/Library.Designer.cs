@@ -159,7 +159,7 @@ namespace Library
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(334, 20);
             this.label1.TabIndex = 11;
-            this.label1.Text = "By Lollipop";
+            this.label1.Text = "By Nova";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // aboutButton
